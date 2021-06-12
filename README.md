@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Kickstarter Analysis (Module 1 - Excel) 
+
 # Kickstarting with Excel
 
 ## Overview of Project
