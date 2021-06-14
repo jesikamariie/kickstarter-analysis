@@ -10,7 +10,7 @@ The purpose of this challenge was to expand and build on my excel skills learned
 
 ### Analysis of Outcomes Based on Launch Date
 There is a total of 1,369 theater campaigns in which 839 were successful, 493 failed and 37 that were canceled broken down by month. There was a spike in successful campaigns between may and june. 
-* ![Outcomes based on launch date][logo]
+* ![Resources/Outcomes Based on Launch Date.png]
 
 ### Analysis of Outcomes Based on Goals
 There is a total of 1044 projects based on the subcategory of "plays" in which the majority met the goal between 5000 to 9999. No plays were canceled. 
