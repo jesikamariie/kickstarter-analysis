@@ -22,7 +22,7 @@ There is a total of 1044 projects based on the subcategory of "plays" in which t
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-Campaigns were more successful during the 2nd and 3rd quarters. There far less campaigns in the 1st and 4th quarters. 
+There were far less campaigns in the 1st and 4th quarters. Campaigns were more successful during the 2nd and 3rd quarters. 
 
 - What can you conclude about the Outcomes based on Goals?
 The most successful campaigns were less than 24999 and campaigns that were over 45000 were not as successful. This may be considered outliers.
