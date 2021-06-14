@@ -9,7 +9,7 @@ The purpose of this challenge was to expand and build on my excel skills learned
 
 
 ### Analysis of Outcomes Based on Launch Date
-There is a total of 1,369 theater campaigns in which 839 were successful, 493 failed and 37 that were canceled broken down by month. There was a spike in successful campaigns between may and june. 
+There is a total of 1,369 theater campaigns in which 839 were successful, 493 failed and 37 that were canceled broken down by month. There was a spike in successful campaigns between May and June. 
 ![Outcomes Based on Launch Date](https://github.com/jesikamariie/kickstarter-analysis/blob/main/Resources/Outcomes%20Based%20on%20Launch%20Date.png)
 
 ### Analysis of Outcomes Based on Goals
